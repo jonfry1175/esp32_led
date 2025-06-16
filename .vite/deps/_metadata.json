@@ -1,0 +1,58 @@
+{
+  "hash": "d64613a7",
+  "configHash": "77de450d",
+  "lockfileHash": "e91ec1f7",
+  "browserHash": "383fab32",
+  "optimized": {
+    "vue": {
+      "src": "../../node_modules/.pnpm/vue@3.5.16_typescript@5.3.3/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "d6769380",
+      "needsInterop": false
+    },
+    "primevue/config": {
+      "src": "../../node_modules/.pnpm/primevue@4.3.5_vue@3.5.16_typescript@5.3.3_/node_modules/primevue/config/index.mjs",
+      "file": "primevue_config.js",
+      "fileHash": "927dff54",
+      "needsInterop": false
+    },
+    "@primevue/themes/aura": {
+      "src": "../../node_modules/.pnpm/@primevue+themes@4.3.5/node_modules/@primevue/themes/aura/index.mjs",
+      "file": "@primevue_themes_aura.js",
+      "fileHash": "17dcf640",
+      "needsInterop": false
+    },
+    "primevue/tooltip": {
+      "src": "../../node_modules/.pnpm/primevue@4.3.5_vue@3.5.16_typescript@5.3.3_/node_modules/primevue/tooltip/index.mjs",
+      "file": "primevue_tooltip.js",
+      "fileHash": "f48bedb5",
+      "needsInterop": false
+    },
+    "primevue": {
+      "src": "../../node_modules/.pnpm/primevue@4.3.5_vue@3.5.16_typescript@5.3.3_/node_modules/primevue/index.mjs",
+      "file": "primevue.js",
+      "fileHash": "e5d0684b",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../node_modules/.pnpm/vue-router@4.5.1_vue@3.5.16_typescript@5.3.3_/node_modules/vue-router/dist/vue-router.mjs",
+      "file": "vue-router.js",
+      "fileHash": "41b13e7e",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-2P5Z2QOM": {
+      "file": "chunk-2P5Z2QOM.js"
+    },
+    "chunk-NWP6ITLS": {
+      "file": "chunk-NWP6ITLS.js"
+    },
+    "chunk-ATJ3AQYA": {
+      "file": "chunk-ATJ3AQYA.js"
+    },
+    "chunk-BWNAIIIB": {
+      "file": "chunk-BWNAIIIB.js"
+    }
+  }
+}
